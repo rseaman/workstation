@@ -1,4 +1,2 @@
 # workstation
-
-TODO: Enter the cookbook description here.
-
+Chef training workstation project
