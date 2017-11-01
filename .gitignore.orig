@@ -1,0 +1,32 @@
+.vagrant
+<<<<<<< HEAD
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+
+# Bundler
+Gemfile.lock
+bin/*
+.bundle/*
+
+# test kitchen
+.kitchen/
+.kitchen.local.yml
+
+# Chef
+Berksfile.lock
+.zero-knife.rb
+Policyfile.lock.json
+=======
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+>>>>>>> 943056b3159f42fd4304b45cac5bbffe0793befb
